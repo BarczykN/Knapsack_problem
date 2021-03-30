@@ -1,0 +1,3 @@
+C:/Users/nbarc/CLionProjects/Problem_Plecakowy/cmake-build-debug/CMakeFiles/Problem_Plecakowy.dir
+C:/Users/nbarc/CLionProjects/Problem_Plecakowy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nbarc/CLionProjects/Problem_Plecakowy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
